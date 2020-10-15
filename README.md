@@ -1,5 +1,5 @@
 # Neko.Logging.Core
-一个让netcore的日志可以输出到文件的超轻型中间件
+一个让Asp.NetCore的日志可以输出到文件的超轻型中间件
 ------
 使用方法:
 
