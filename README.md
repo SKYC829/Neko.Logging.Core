@@ -1,6 +1,6 @@
 # Neko.Logging.Core
 一个让Asp.NetCore的日志可以输出到文件的超轻型中间件
-### 项目已整合至[Neko.Utility](https://github.com/SKYC829/Neko.Utility)建议使用该项目的日志功能
+### 项目已整合至[Neko.Utility](https://github.com/SKYC829/Neko.Utility),建议使用该项目的日志功能
 ------
 使用方法:
 
